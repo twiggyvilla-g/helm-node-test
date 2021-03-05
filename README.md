@@ -1,5 +1,7 @@
 # helm-node-test
 
+A really basic helm chart to show how to run locally on my mac...
+
 Assuming you already have docker and kubectl installed...
 
 Before spinning up the helm chart locally you need to:
