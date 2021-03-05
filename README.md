@@ -53,3 +53,6 @@ You will be given the instructions on how to open it locally (a couple of export
 To stop and remove the running chart:
 
 ```helm delete node-test```
+
+This has shown a really basic helm chart
+
