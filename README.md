@@ -11,7 +11,7 @@ Before spinning up the helm chart locally you need to:
 
 ## Build the image locally
 
-Clone locally and run through the steps in https://github.com/twiggyvilla-g/docker_node_test/blob/main/README.md
+Clone https://github.com/twiggyvilla-g/docker_node_test locally and run through the steps in README.md
 
 ```docker images``` - ensure node:0.1.1 image is available
 
