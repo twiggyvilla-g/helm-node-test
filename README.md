@@ -47,3 +47,7 @@ To start the chart:
 ```helm install node-test .```
 
 You will be given the instructions on how to open it locally (a couple of export commands and a kubectl command for forwarding traffic to the container port)
+
+To stop and remove the running chart:
+
+```helm delete node-test```
